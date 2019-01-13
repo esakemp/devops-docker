@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-RUN apt-get update && apt install -y git && apt-get install -y curl
+RUN apt-get update && apt-get install -y git curl
 
 RUN curl -sL https://deb.nodesource.com/setup_10.x | bash
 
