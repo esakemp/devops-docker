@@ -12,4 +12,4 @@ WORKDIR /backend-example-docker
 RUN npm install
 
 EXPOSE 8000
-CMD FRONT_URL="http://localhost:5000" npm start
+CMD FRONT_URL="http://localhost" npm start
