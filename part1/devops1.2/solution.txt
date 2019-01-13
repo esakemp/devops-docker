@@ -1,7 +1,7 @@
 1.2
 
-eske@eske-VirtualBox:~$ docker ps -a
+docker ps -a
 CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
 
-eske@eske-VirtualBox:~$ docker images
+docker images
 REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
