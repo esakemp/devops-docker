@@ -1,0 +1,8 @@
+3.5
+
+REPOSITORY            TAG                 IMAGE ID            CREATED             SIZE
+yle-dl-alp            latest              0dbc397786b4        14 seconds ago      262MB
+yle-dl                latest              6a712cb1a489        19 hours ago        706MB
+
+
+docker run --rm -ti -u=`id -u`:`id -g` -v `pwd`:/yle-dl yle-dl-opt https://areena.yle.fi/1-4606017

@@ -1,0 +1,3 @@
+3.2
+
+docker run -v $(pwd):/yle-dl yle-dl https://areena.yle.fi/1-4606017

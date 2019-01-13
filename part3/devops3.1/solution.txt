@@ -1,0 +1,7 @@
+3.1
+
+REPOSITORY            TAG                 IMAGE ID            CREATED             SIZE
+back-opt              latest              5242819ed233        2 minutes ago       317MB
+front-opt             latest              69630f47dc1e        4 minutes ago       413MB
+backend               latest              8136b9c59038        21 hours ago        418MB
+frontend              latest              1d6d550e73cd        21 hours ago        515MB
