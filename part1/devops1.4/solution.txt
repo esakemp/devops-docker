@@ -2,7 +2,6 @@ docker build -t curler .
 
 docker run -it curler
 
-eske@eske-VirtualBox:~/curler$ docker run -it curler
 helsinki.fi
 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
 <html><head>
