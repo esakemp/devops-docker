@@ -1,0 +1,3 @@
+docker pull esakemp/palindrome
+
+docker run -it esakemp/palindrome
